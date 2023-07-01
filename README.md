@@ -1,4 +1,4 @@
-Hello, there! 👋 I'm Abdelhmiad or simply Hamid, a passionate software developer Student. 
+Hello, there! 👋 I'm Abdelhamid or simply Hamid, a passionate software developer Student. 
 
 Welcome to my GitHub profile!
 
