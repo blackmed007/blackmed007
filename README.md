@@ -1,4 +1,5 @@
-# Hello there! 👋 I'm Abdelhamid, a passionate software development student.
+# Hello there! 👋
+- I'm Abdelhamid or simply Hamid, a passionate software development student.
 
 Welcome to my GitHub profile!
 
@@ -18,9 +19,7 @@ I'm diligently working towards completing both projects by July 10th. While I wo
 
 Looking ahead, I have some exciting plans for future projects focusing on data structures and algorithms. I'll be leveraging both Java and Python to build efficient and optimized solutions.
 
-## Get in Touch
 
-Thank you for visiting my GitHub profile. If you're interested in collaborating on projects, discussing ideas, or just connecting, feel free to reach out. Let's learn and grow together in the world of software development.
 
 Happy coding! 🚀
 
