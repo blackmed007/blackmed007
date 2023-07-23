@@ -1,5 +1,5 @@
 # Hello there! 👋
-- I'm Abdelhamid or simply Hamid, a passionate software development student.
+- I'm Abdelhamid or simply Hamid, a passionate Computer science student.
 
 Welcome to my GitHub profile!
 
@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 
 ## Project Completion
 
-I'm diligently working towards completing both projects by July 10th. While I work on these projects, you can also check out my completed projects.
+I'm diligently working towards completing both projects by August 10th. While I work on these projects, you can also check out my completed projects.
 
 ## Future Projects
 
