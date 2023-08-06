@@ -7,13 +7,13 @@ Welcome to my GitHub profile!
 
 🔭 I'm currently working on two exciting projects:
 
-1. **Expedia Project**: I'm actively contributing to the Expedia project, where I'm developing a comprehensive travel booking platform. It's a simplified version of expedia.com using Python and object-oriented programming (OOP) principles.
+1. **Expedia Project**: I'm  contributing to the Expedia project, where I'm developing a comprehensive travel booking platform. It's a simplified version of expedia.com using Python and object-oriented programming (OOP) principles.
 
-2. **Company Payroll System**: Additionally, I'm involved in developing a payroll system using Python and OOP. This project aims to streamline and automate the payroll processes within a company.
+2. **Company Payroll System**: Additionally, I'm involved in developing a payroll system using Python and OOP.
 
 ## Project Completion
 
-I'm diligently working towards completing both projects by August 10th. While I work on these projects, you can also check out my completed projects.
+I'm diligently working towards completing both projects by August 20th. While I work on these projects, you can also check out my completed projects.
 
 ## Future Projects
 
